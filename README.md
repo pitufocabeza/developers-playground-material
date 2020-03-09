@@ -1,6 +1,8 @@
 # developers-playground.com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e867007b-69de-4ea9-a085-2a9d48c293ca/deploy-status)](https://app.netlify.com/sites/developers-playground/deploys)
+
 
 Sascha's personal website running on Gatsby, React and Node.js.
 
