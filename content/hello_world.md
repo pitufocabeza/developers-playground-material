@@ -9,7 +9,6 @@ tags:
     - world
     - python
 ---
-> <span style="font-family:Papyrus; font-size:0.5em;">Photo by Fabian Grohs on Unsplash</span>
 
 This is my first post on my new blog which is build with [Gatsby](https://gatsbyjs.org) and is powered by [Netlify](https://netlify.com)!
 
@@ -24,3 +23,5 @@ def hello(name):
     print(f"Hello, {name}!")
 hello()
 ```
+
+> Cover photo by Fabian Grohs on Unsplash
