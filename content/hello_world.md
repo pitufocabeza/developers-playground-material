@@ -1,16 +1,15 @@
 ---
-title: "Hello World"
-cover: "fullstack.png"
+title: "Hello World!"
+cover: "fullstack.jpg"
 category: "tech"
 date: "2018-03-01"
 slug: "Hello-World"
 tags:
-    - test
     - hello
     - world
     - python
 ---
-# Hello World!
+> <span style="font-family:Papyrus; font-size:0.5em;">Photo by Fabian Grohs on Unsplash</span>
 
 This is my first post on my new blog which is build with [Gatsby](https://gatsbyjs.org) and is powered by [Netlify](https://netlify.com)!
 
