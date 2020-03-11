@@ -20,7 +20,7 @@ const config = {
   userLocation: "Munich, Germany", // User location to display in the author segment.
   userAvatar: "https://pbs.twimg.com/profile_images/1236709748483002369/CBX-rO_5_200x200.jpg", // User avatar to display in the author segment.
   userDescription:
-    "Hi, I'm Sascha, a young professional industrial engineer working in the aerospace industry. Computer Science, Web Development and Programming are my hobbies.", // User description to display in the author segment.
+    "Hi, I'm Sascha, an industrial engineer working in the aerospace industry. Computer Science and Programming is my passion.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
